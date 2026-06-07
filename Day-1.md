@@ -4,7 +4,7 @@
 
 --- Before Day-1 ---
 I already knew basic computer operations and internet usage.
-------------------------------------------------------------
+---
 
 ## Day-1 Checklist
 
@@ -21,14 +21,12 @@ I already knew basic computer operations and internet usage.
 
 --- After Day-1 ---
 I learned Linux filesystem basics, shell navigation, file creation, redirection operators, and using WSL with VS Code.
-----------------------------------------------------------------------------------------------------------------------
+---
 
 --- Feedback (Suggestions for the TDS Team) ---
 The exercises were useful and helped reinforce Linux and GitHub fundamentals.
------------------------------------------------------------------------------
-
 ---
 
 ---
 
-You can write your personal notes here; they will not be parsed and are for your own reference.
+---
